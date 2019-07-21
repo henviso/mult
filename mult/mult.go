@@ -1,6 +1,6 @@
 package mult
 
-import "../../sum/sum"
+import "../sum/sum"
 
 func Mult(a int, b int) int {
 	ans := a
